@@ -17,6 +17,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duynv-instagram" />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
-    <img src="neil.duynguyen@gmail.com" alt="duynv-email" />
+  <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duynv-email" />
   </a>
 </div>
