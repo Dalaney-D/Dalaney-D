@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Văn Duy</h1>
+<div align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Play&color=%63bae4&size=50&center=true&vCenter=true&height=60&width=700&lines=Welcome+to+my+profile!;I'm+Duy;I'm+a+Backend+programmer.;I'm+a+Backend+programmer.;"
+            alt="Title"></img>
+</div>
 <h3 align="center">A passionate backend developer from VietNam</h3>
 
 <h3 align="left">Connect with me: https://www.facebook.com/profile.php?id=100006100877019</h3>
