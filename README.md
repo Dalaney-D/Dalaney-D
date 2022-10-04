@@ -10,13 +10,13 @@
 <h2 align="center">How to connect with me</h2>
 <br>
 <div align="center">
-  <a href="https://www.facebook.com/dungx.quoc.2125109" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="dunghq-facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100006100877019" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="duynv-facebook" />
   </a>
-  <a href="https://www.instagram.com/dunghq21/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="dunghq-instagram" />
+  <a href="#" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="duynv-instagram" />
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="dunghq-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="duynv-email" />
   </a>
 </div>
